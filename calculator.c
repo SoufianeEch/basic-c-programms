@@ -9,7 +9,7 @@ int main(){
     float result = .0F;
     int running = true;
 
-    printf("\n-------------nCALCULATOR-------------\n");
+    printf("\n-------------CALCULATOR-------------\n");
 
     while (running)
     {
