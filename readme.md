@@ -20,5 +20,10 @@ Guess The right number: 55
 Bingo
 Attempts 4
 ```
+```
+--------PASSWORD STRENGTH CHECKER--------
+Enter Your password: SecurePass123!
+Strength: Strong
+```
 
 `@soufianeEch`
